@@ -1,0 +1,3 @@
+#ensemble des roles externes que l'on souhaite récupérer
+#Install a role for wordpress
+- src: https://github.com/diranetafen/ansible-role-containerized-wordpress.git
